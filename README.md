@@ -114,6 +114,8 @@ sudo ./SwaySetup
 
 ## Screenshots
 
+Screenshots will be added in a future update. While the application is fully functional, the current interface is still a work in progress.
+
 ### Main Menu
 ```
 Sway & Wayland Setup for FreeBSD
