@@ -151,7 +151,7 @@ Feel free to open an issue or submit a pull request.
 
 ## Author
 
-**Your Name**  
+**Vic Thacker**  
 GitHub: [vimanuelt](https://github.com/vimanuelt)
 
 ---
