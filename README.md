@@ -43,13 +43,25 @@ Ensure your FreeBSD system meets the following requirements:
 git clone https://github.com/vimanuelt/SwaySetup.git
 cd SwaySetup
 ```
+## Installation
 
-### 2. Build the Application
-
-Ensure you have **Go 1.18+** installed.
+### Step 1: Install Go
+Make sure Go is installed on your system:
 
 ```bash
-go build -o SwaySetup
+sudo pkg install go
+```
+
+### Step 2: Clone and Build SwaySetup
+
+Clone the SwaySetup repository and build the application:
+
+```bash
+git clone https://github.com/vimanuelt/SwaySetup
+cd SwaySetup
+go mod init SwaySetup
+go mod tidy
+go build -o SwaySetup .
 ```
 
 ---
